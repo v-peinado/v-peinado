@@ -83,19 +83,19 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Project 3</h3>
+      <h3 align="center">🏓 Transcendence</h3>
       <div align="center">  
-        <a href="#">
-          <img src="https://via.placeholder.com/400x200/F7DF1E/000000?text=Project+3" alt="Project 3" width="100%"/>
+        <a href="https://github.com/v-peinado/42-Transcendence">
+          <img src="https://via.placeholder.com/400x200/4CAF50/FFFFFF?text=Transcendence" alt="Transcendence" width="100%"/>
         </a>
         <br>
         <br>
         <p>
-          <a href="#">
+          <a href="https://github.com/v-peinado/42-Transcendence">
             <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white"/>
           </a>  
         </p>
-        <p><strong>JavaScript, Web Dev</strong> - Brief description of your amazing project and what it does.</p>
+        <p><strong>Django, WebSockets, Docker, PostgreSQL</strong> - Modern Pong platform with real-time multiplayer, tournaments, AI opponents, and OAuth integration.</p>
       </div>
     </td>
     <td width="50%">
