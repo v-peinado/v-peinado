@@ -44,7 +44,7 @@
 
 ---
 
-## 🎯 Featured Projects
+# 🎯 Featured Projects
 
 <table>
   <tr>
@@ -52,7 +52,7 @@
       <h3 align="center">🐚 Minishell</h3>
       <div align="center">  
         <a href="https://github.com/v-peinado/42_Minishell">
-          <img src="https://via.placeholder.com/400x200/00599C/FFFFFF?text=Minishell" alt="Minishell" width="100%"/>
+          <img src="https://raw.githubusercontent.com/v-peinado/assets/main/minishell-banner.png" alt="Minishell" width="100%"/>
         </a>
         <br>
         <br>
@@ -68,7 +68,7 @@
       <h3 align="center">💬 ft_irc</h3>
       <div align="center">  
         <a href="https://github.com/v-peinado/ft_irc">
-          <img src="https://via.placeholder.com/400x200/7289DA/FFFFFF?text=ft_irc" alt="ft_irc" width="100%"/>
+          <img src="https://raw.githubusercontent.com/v-peinado/assets/main/ftirc-banner.png" alt="ft_irc" width="100%"/>
         </a>
         <br>
         <br>
@@ -84,7 +84,7 @@
       <h3 align="center">🏓 Transcendence</h3>
       <div align="center">  
         <a href="https://github.com/v-peinado/42-Transcendence">
-          <img src="https://via.placeholder.com/400x200/4CAF50/FFFFFF?text=Transcendence" alt="Transcendence" width="100%"/>
+          <img src="https://raw.githubusercontent.com/v-peinado/assets/main/transcendence-banner.png" alt="Transcendence" width="100%"/>
         </a>
         <br>
         <br>
