@@ -65,19 +65,19 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Project 2</h3>
+      <h3 align="center">💬 ft_irc</h3>
       <div align="center">  
-        <a href="#">
-          <img src="https://via.placeholder.com/400x200/3776AB/FFFFFF?text=Project+2" alt="Project 2" width="100%"/>
+        <a href="https://github.com/v-peinado/ft_irc">
+          <img src="https://via.placeholder.com/400x200/7289DA/FFFFFF?text=ft_irc" alt="ft_irc" width="100%"/>
         </a>
         <br>
         <br>
         <p>
-          <a href="#">
+          <a href="https://github.com/v-peinado/ft_irc">
             <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white"/>
           </a>  
         </p>
-        <p><strong>Python, Django</strong> - Brief description of your amazing project and what it does.</p>
+        <p><strong>C++, Network Programming, Socket I/O</strong> - Lightweight IRC server with multi-client support using poll() and non-blocking I/O multiplexing.</p>
       </div>
     </td>
   </tr>
