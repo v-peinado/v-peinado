@@ -49,19 +49,19 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Project 1</h3>
+      <h3 align="center">🐚 Minishell</h3>
       <div align="center">  
-        <a href="#">
-          <img src="https://via.placeholder.com/400x200/00599C/FFFFFF?text=Project+1" alt="Project 1" width="100%"/>
+        <a href="https://github.com/v-peinado/42_Minishell">
+          <img src="https://via.placeholder.com/400x200/00599C/FFFFFF?text=Minishell" alt="Minishell" width="100%"/>
         </a>
         <br>
         <br>
         <p>
-          <a href="#">
+          <a href="https://github.com/v-peinado/42_Minishell">
             <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white"/>
           </a>  
         </p>
-        <p><strong>C++, Data Structures</strong> - Brief description of your amazing project and what it does.</p>
+        <p><strong>C, Unix Systems, Process Management</strong> - Custom Unix shell implementation with pipes, redirections, builtins, and signal handling.</p>
       </div>
     </td>
     <td width="50%">
