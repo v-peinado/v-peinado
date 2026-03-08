@@ -48,7 +48,7 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">🐚 Minishell</h3>
       <div align="center">  
         <a href="https://github.com/v-peinado/42_Minishell">
@@ -64,7 +64,7 @@
         <p><strong>C, Unix Systems, Process Management</strong> - Custom Unix shell implementation with pipes, redirections, builtins, and signal handling.</p>
       </div>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">💬 ft_irc</h3>
       <div align="center">  
         <a href="https://github.com/v-peinado/ft_irc">
@@ -80,9 +80,7 @@
         <p><strong>C++, Network Programming, Socket I/O</strong> - Lightweight IRC server with multi-client support using poll() and non-blocking I/O multiplexing.</p>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">🏓 Transcendence</h3>
       <div align="center">  
         <a href="https://github.com/v-peinado/42-Transcendence">
@@ -96,22 +94,6 @@
           </a>  
         </p>
         <p><strong>Django, WebSockets, Docker, PostgreSQL</strong> - Modern Pong platform with real-time multiplayer, tournaments, AI opponents, and OAuth integration.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 4</h3>
-      <div align="center">  
-        <a href="#">
-          <img src="https://via.placeholder.com/400x200/092E20/FFFFFF?text=Project+4" alt="Project 4" width="100%"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>  
-        </p>
-        <p><strong>System Programming</strong> - Brief description of your amazing project and what it does.</p>
       </div>
     </td>
   </tr>
